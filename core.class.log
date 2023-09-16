@@ -1,0 +1,487 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: 'BBB0C89CF3DF672292645CAC2F574764',
+    participant: undefined
+  },
+  messageTimestamp: 1694886854,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584241416948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: '935231D1D43ABD83BAA6DC3EDE609D8F',
+    participant: undefined
+  },
+  messageTimestamp: 1694886896,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cédula',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cédula',
+  from: '584241416948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: 'FBC768BB61622D9B29DE57852B45F066',
+    participant: undefined
+  },
+  messageTimestamp: 1694886904,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Deuda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Deuda',
+  from: '584241416948'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311',
+  keyword: 'key_e1e3d7a2-8fc6-43ff-951e-33a133b3b1bd',
+  answer: '¿Cual es tu cedula?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c9e60a36072d0ee7c1e93ff5daad81e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: '71536506711FA1D90190985A10391E96',
+    participant: undefined
+  },
+  messageTimestamp: 1694886957,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584241416948'
+}
+[ERROR.save]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: '91B79C712F65C44292A9F6E240C9726D',
+    participant: undefined
+  },
+  messageTimestamp: 1694886966,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584241416948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241416948@s.whatsapp.net',
+    fromMe: false,
+    id: 'B9B9D731608CCBEF96B9DF156453FAB5',
+    participant: undefined
+  },
+  messageTimestamp: 1694886974,
+  pushName: 'Luisana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584241416948'
+}
+Error al encolar: undefined
+[ERROR.save]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[ERROR.save]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3cb9a752-db64-456a-b94c-3cc0650f367e',
+  keyword: 'ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311',
+  answer: 'consultando',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '312b6abb76c7495e0ceed6d4bfbb0a9d'
+}
+Error al encolar: Cannot find module 'xlsx'
+Require stack:
+- C:\Users\User\desktop\bot\base-baileys-json\app.js
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3cb9a752-db64-456a-b94c-3cc0650f367e',
+  keyword: 'ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311',
+  answer: 'consultando',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '312b6abb76c7495e0ceed6d4bfbb0a9d'
+}
+Error al encolar: Cannot find module 'xlsx'
+Require stack:
+- C:\Users\User\desktop\bot\base-baileys-json\app.js
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d',
+  keyword: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  answer: 'Deseas pedir algo *Si* o *No*?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6c67b298a058f588cc3d8e75a46c714d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d',
+  keyword: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  answer: 'Deseas pedir algo *Si* o *No*?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6c67b298a058f588cc3d8e75a46c714d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128203973@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DEC1906811DEF7CF29',
+    participant: undefined
+  },
+  messageTimestamp: 1694887056,
+  pushName: 'Yo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'menu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '584128203973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  keyword: 'key_683714d6-5aec-48b8-8f0c-12f752d9cefe',
+  answer: 'Menu',
+  options: {
+    media: 'menu2.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e5f2e05593b7f0d2b491e32e02b0f3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d',
+  keyword: 'ans_e2ca8b44-75c1-4da2-8227-e61147983866',
+  answer: 'Deseas pedir algo *Si* o *No*?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6c67b298a058f588cc3d8e75a46c714d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128203973@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09AC2036AE8C6FC3AA4',
+    participant: undefined
+  },
+  messageTimestamp: 1694887064,
+  pushName: 'Yo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '584128203973'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128203973@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB003116AD446D168296F',
+    participant: undefined
+  },
+  messageTimestamp: 1694887069,
+  pushName: 'Yo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jkkjfbfb',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jkkjfbfb',
+  from: '584128203973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b69af98d-5700-41ae-ae33-5275b0eefa3d',
+  keyword: 'ans_9087b7c2-f386-4613-866d-2440b7c650bd',
+  answer: 'Es Correcto ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '00441cc9bd6bbd3c94a1fb94491f12a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128203973@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB073688184B1601AA777',
+    participant: undefined
+  },
+  messageTimestamp: 1694887074,
+  pushName: 'Yo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '584128203973'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e13d672-c5f3-4dbe-b312-186c5fdb3577',
+  keyword: 'ans_b69af98d-5700-41ae-ae33-5275b0eefa3d',
+  answer: 'Me puede indicar la direccion?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a00e9776f131a83f427be8f44154cf19'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584128203973@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CACDC7D75F86819A65',
+    participant: undefined
+  },
+  messageTimestamp: 1694887078,
+  pushName: 'Yo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ijfjborh',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ijfjborh',
+  from: '584128203973'
+}

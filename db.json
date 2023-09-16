@@ -1,0 +1,288 @@
+[
+  {
+    "ref": "3a1125d6-9d17-47d7-9f4a-5ba7e1a94d49",
+    "keyword": "182d878c886b384ac766dddfab695b99",
+    "answer": "Menu",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ca7eaa99-61a5-4351-83f2-36172278b6c4",
+    "keyword": "1943ef5752ef89f46d7b613aaf765c9b",
+    "answer": "Cédula",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "4ef21a318f4ef57e30317c5b13a03bdd"
+  },
+  {
+    "ref": "2989f5b8-1711-43f5-b3b2-917f8aeb0ce2",
+    "keyword": "4ef21a318f4ef57e30317c5b13a03bdd",
+    "answer": "Deuda",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "f941df91edd5f6f7d1f834b5bbcb836d"
+  },
+  {
+    "ref": "ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311",
+    "keyword": "key_e1e3d7a2-8fc6-43ff-951e-33a133b3b1bd",
+    "answer": "¿Cual es tu cedula?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "2c9e60a36072d0ee7c1e93ff5daad81e",
+    "from": "584241416948"
+  },
+  {
+    "ref": "736e0534-ed52-4c54-9f7e-43d4b1365721",
+    "keyword": "2c9e60a36072d0ee7c1e93ff5daad81e",
+    "answer": "Menu",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "02587e7c-724b-44c4-a0f7-8bf865e421df",
+    "answer": "Gracias, ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584241416948",
+    "refSerialize": "b4327a7e11d0b4f9c752dbd9663c34d5"
+  },
+  {
+    "ref": "178345b4-fb7f-48e5-aa44-47db29ca3879",
+    "keyword": "1943ef5752ef89f46d7b613aaf765c9b",
+    "answer": "Menu",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "462479c0-c463-4155-b92b-ff1f41c53cb4",
+    "keyword": "1943ef5752ef89f46d7b613aaf765c9b",
+    "answer": "Menu",
+    "options": {},
+    "from": "584241416948",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ans_3cb9a752-db64-456a-b94c-3cc0650f367e",
+    "keyword": "ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311",
+    "answer": "consultando",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "312b6abb76c7495e0ceed6d4bfbb0a9d",
+    "from": "584241416948"
+  },
+  {
+    "ref": "ans_3cb9a752-db64-456a-b94c-3cc0650f367e",
+    "keyword": "ans_b03ae4d7-08f4-4d0a-b6e0-cc019c0a1311",
+    "answer": "consultando",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "312b6abb76c7495e0ceed6d4bfbb0a9d",
+    "from": "584241416948"
+  },
+  {
+    "ref": "ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d",
+    "keyword": "ans_e2ca8b44-75c1-4da2-8227-e61147983866",
+    "answer": "Deseas pedir algo *Si* o *No*?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "6c67b298a058f588cc3d8e75a46c714d",
+    "from": "584241416948"
+  },
+  {
+    "ref": "ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d",
+    "keyword": "ans_e2ca8b44-75c1-4da2-8227-e61147983866",
+    "answer": "Deseas pedir algo *Si* o *No*?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "6c67b298a058f588cc3d8e75a46c714d",
+    "from": "584241416948"
+  },
+  {
+    "ref": "ans_e2ca8b44-75c1-4da2-8227-e61147983866",
+    "keyword": "key_683714d6-5aec-48b8-8f0c-12f752d9cefe",
+    "answer": "Menu",
+    "options": {
+      "media": "menu2.png",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "15e5f2e05593b7f0d2b491e32e02b0f3",
+    "from": "584128203973"
+  },
+  {
+    "ref": "ans_9d920ed0-959b-42b5-8e42-ffdcd7943f2d",
+    "keyword": "ans_e2ca8b44-75c1-4da2-8227-e61147983866",
+    "answer": "Deseas pedir algo *Si* o *No*?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "6c67b298a058f588cc3d8e75a46c714d",
+    "from": "584128203973"
+  },
+  {
+    "ref": "e55f7648-51e0-4d92-a213-18d792d2a14f",
+    "keyword": "6c67b298a058f588cc3d8e75a46c714d",
+    "answer": "si",
+    "options": {},
+    "from": "584128203973",
+    "refSerialize": "715ca38ec28b8dabb30e75e511c57a3a"
+  },
+  {
+    "ref": "ans_9087b7c2-f386-4613-866d-2440b7c650bd",
+    "keyword": "key_80f6da3e-0a0f-4023-a5d9-26cbc8595a8f",
+    "answer": "Que Deseas ?  Indica tu pedido en un solo mensaje indicando los productos y sus cantidades",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a95f8d287855d9b278ebe48eb06c300c",
+    "from": "584128203973"
+  },
+  {
+    "ref": "15e3a517-2420-46fe-b261-e9d3b5c2616a",
+    "keyword": "a95f8d287855d9b278ebe48eb06c300c",
+    "answer": "jkkjfbfb",
+    "options": {},
+    "from": "584128203973",
+    "refSerialize": "525cd576267f3b6ca60f5998a3a555bf"
+  },
+  {
+    "ref": "ca2abd24-405e-4394-8e15-2154629afe32",
+    "answer": "*Resumen de Pedido*\nNombre: Yo\nTelefono: 584128203973\nPedido: jkkjfbfb",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584128203973",
+    "refSerialize": "5ca3970692d697d0be45473364ca838b"
+  },
+  {
+    "ref": "ans_b69af98d-5700-41ae-ae33-5275b0eefa3d",
+    "keyword": "ans_9087b7c2-f386-4613-866d-2440b7c650bd",
+    "answer": "Es Correcto ?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "00441cc9bd6bbd3c94a1fb94491f12a3",
+    "from": "584128203973"
+  },
+  {
+    "ref": "e30ef988-be7c-4c03-a61f-529fccad31a5",
+    "keyword": "00441cc9bd6bbd3c94a1fb94491f12a3",
+    "answer": "si",
+    "options": {},
+    "from": "584128203973",
+    "refSerialize": "715ca38ec28b8dabb30e75e511c57a3a"
+  },
+  {
+    "ref": "ans_9e13d672-c5f3-4dbe-b312-186c5fdb3577",
+    "keyword": "ans_b69af98d-5700-41ae-ae33-5275b0eefa3d",
+    "answer": "Me puede indicar la direccion?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a00e9776f131a83f427be8f44154cf19",
+    "from": "584128203973"
+  },
+  {
+    "ref": "72b51368-ff2c-4a41-ae08-34c49ac388d4",
+    "keyword": "a00e9776f131a83f427be8f44154cf19",
+    "answer": "ijfjborh",
+    "options": {},
+    "from": "584128203973",
+    "refSerialize": "8c184d937f6a76ee2b52175ef55024fb"
+  },
+  {
+    "ref": "063b7e11-6dab-48cb-b2ec-4e3655a5f8dc",
+    "answer": "Perfecto, su pedido ha sido Procesado...\n            *Resumen de Pedido*\nNombre: Yo\nTelefono: 584128203973\nPedido: jkkjfbfb\nDireccion: ijfjborh\n            \nEl Delivery si comunicara con usted \n            ",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584128203973",
+    "refSerialize": "758852c417bfba5e3113f164741aa049"
+  }
+]
